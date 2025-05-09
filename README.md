@@ -1,4 +1,4 @@
-- 👋 Hi, I’m mARTin
+- 👋 Hi, I’m MArTIN (마틴)
 - 👀 I’m interested in letting the IT do the work for me.
 - 🌱 I’m currently learning Powershell, .NET and Swift
 - 💞️ I’m looking to collaborate on projects like automation, 3D-Mapping and indoor-navigation.
